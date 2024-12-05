@@ -63,19 +63,19 @@ Imagine criar e explorar mundos fantásticos apenas com palavras. Com tecnologia
 <br>
 
  # 🌐 Pronto para criar sua história?
- Escolha como deseja experimentar o jogo:
+
  1. **Versão Online:** <br>
  Jogue diretamente no navegador: <br>
-[TextAdventureGame Online](https://text-adventure-game-git-main-bernardo-limas-projects.vercel.app/)
-<br>
+ [TextAdventureGame Online](https://text-adventure-game-git-main-bernardo-limas-projects.vercel.app/)
 
+ 
  2. **Versão Local:** <br>
   ◽ **Clone o repositório:** <br>
   `git clone https://github.com/be3013/TextAdventureGame.git`  <br>
-  `cd TextAdventureGame´`
+   `cd TextAdventureGame´`
 
     ◽ **Configure sua chave de API OpenAI e execute o jogo:** <br>
-    `python Main.py`
+      `python Main.py` 
 
 <br>
 
@@ -87,14 +87,12 @@ TextAdventureGame nasceu para inspirar e desafiar os limites da criatividade usa
 # 🟢 Demonstração de uma Aventura
 <br>
 
-**Entrada do Usuário:**
+**Entrada:**
 ![image](https://github.com/user-attachments/assets/a3e76267-4a06-442e-8df2-ce50701dd19c)
 
 
 **Saída da IA:**
 ![image](https://github.com/user-attachments/assets/3faece9a-fc52-4b58-ad6e-10bb7f5251fd)
-
-<br>
 
 # 🎥 Demonstração em Vídeo
 
@@ -108,3 +106,4 @@ https://github.com/user-attachments/assets/60587d96-115f-4535-be83-7f5fcaa5730d
 
 # ⭐ Agradecimentos
 Obrigado por explorar o **TextAdventureGame**! Sua criatividade é o coração deste projeto.
+
